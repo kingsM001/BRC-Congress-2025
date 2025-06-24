@@ -53,7 +53,7 @@ export default function App() {
             transition={{ duration: 0.8 }}
           >
             <h1 className="text-4xl md:text-5xl font-extrabold mb-4">
-              2nd Lagos Archdiocesan Congress
+              2nd Lagos Archdiocesan BRC Congress
             </h1>
             <p className="text-xl font-medium italic mb-2">
               "To the Throne of Grace" – Hebrews 4:16
